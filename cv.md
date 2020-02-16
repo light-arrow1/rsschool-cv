@@ -4,7 +4,8 @@
 * Tel.: ~~**+375256668628**~~ 
 * Telegram: ***@light_shaft***
 
->Hello! I am a single-minded novice web developer. Experienced PC and web user. She worked as a content manager and tech support, and also has experience in creating sites. One of my mottoes in life is: \"to study, study and study again\" (Lenin). Therefore, work in the field of WEB technologies suits me perfectly. I will be glad to get experience in your company. Good day!
+>Hello! I am a single-minded novice web developer. Experienced PC and web user. She worked as a content manager and tech support, and also has experience in creating sites. One of my mottoes in life is: \"to study, study and study again\" (Lenin). Therefore, work in the field of WEB technologies suits me perfectly. I will be glad to get experience in your company. [Good day!]( https://www.youtube.com/watch?v=736fiBMtADg)
+
 
 ##### My skills:
 1. HTML,
@@ -44,5 +45,6 @@
 
 </body></html>
 ```
+
 -[x] I graduated from BSUIR 
 -[x] English level - Beginer
