@@ -1,0 +1,36 @@
+img {
+    float: right;
+    padding: 25px;
+    border: 1px lightgray solid;
+    border-radius: 9px;
+    max-width: 45%;
+}
+main {
+    margin: 50px auto;
+    color: darkblue;
+    max-width: 1024px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+}
+p {
+    font-family: 'Sriracha', cursive;
+}
+section {
+    max-width: 47%;
+}
+h4 {
+    color: darkslategray;
+    margin: 0;
+   }
+ul, ol {
+    margin: 8px 5px 15px;
+    color: darkslategray;
+}
+pre {
+    margin: 70px 10px 50px;
+}
+h6 {
+    font-size: 16px;
+    margin: 0.7em;
+    color: darkslategray;
+}
